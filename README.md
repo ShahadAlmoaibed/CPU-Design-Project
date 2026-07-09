@@ -4,7 +4,7 @@
 Computer Organization
 
 ## Description
-Designed and implemented a single-cycle CPU and a pipelined CPU using Logisim Evolution as part of a Computer Organization course project. The project involved designing the processor datapath, implementing the control logic, and verifying CPU functionality through simulation.
+Designed and implemented both a single-cycle CPU and a pipelined CPU using Logisim Evolution as part of a Computer Organization course project. The project includes the design of the processor datapath, implementation of the control unit, and integration of core hardware components such as the ALU, register file, instruction memory, and data memory. CPU functionality was verified through simulation by executing test programs and validating correct instruction execution.
 
 ## Project Type
 Team project (2 students)
