@@ -18,13 +18,11 @@ Team project (2 students)
 - Phase 2 implementation
 
 ## How to Open
-
 1. Open the project using Logisim-Evolution.
 2. Load either the Phase 1 or Phase 2 .circ file.
 3. Run the simulation to test the CPU design.
 
 ## Learning Outcomes
-
 - CPU datapath design
 - Control logic implementation
 - Instruction Set Architecture (ISA) design
